@@ -30,7 +30,7 @@ The dataset used is the **Telco Customer Churn** dataset from IBM, which contain
    - Feature scaling for continuous variables
 
 4. **Modeling**  
-   - Training classification models (`Random Forest`, `MLP Neural Network`, etc.)  
+   - Training classification model (`MLP Neural Network`)  
    - Evaluating using metrics: *Accuracy*, *Precision*, *Recall*, *F1-score*, *ROC-AUC*
 
 5. **Interpretation**  
