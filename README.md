@@ -41,7 +41,7 @@ The dataset used is the **Telco Customer Churn** dataset from IBM, which contain
 
 - Python 3.x  
 - Pandas, NumPy  
-- Scikit-learn  
+- Scikit-learn, Keras  
 - Seaborn, Matplotlib  
 - Jupyter Notebook
 
